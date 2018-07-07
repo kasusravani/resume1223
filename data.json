@@ -1,0 +1,21 @@
+{
+  "co":"thi is my strength",
+  "Achieve":{
+    "details":"I won  a first price on studies"
+  },
+  "education":[{
+    "name":"btech",
+    "inst":"loyola",
+    "per":"92"
+  },
+  {
+    "name":"Intermediate",
+    "inst":"chaitanya",
+    "per":"90"
+  },
+  {
+    "name":"s s c",
+    "inst":"GOWTHAM school",
+    "per":"99"
+  }]
+}
